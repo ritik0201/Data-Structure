@@ -14,5 +14,6 @@ int main(){
             cout<<"*"; // add space after * if i have to make piramit
         }
         cout<<endl;
+        //
     }
 }
